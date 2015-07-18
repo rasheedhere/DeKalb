@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="test" color="#FFFFFF">
+        <item color="#FFFFFF">Places</item>
+        <item color="#FFFFFF">Vja</item>
+        <item color="#FFFFFF">Hyd</item>
+    </string-array>
+
+
+    <string-array name="test1" color="#FFFFFF">
+        <item color="#FFFFFF">Places</item>
+        <item color="#FFFFFF">Vijayawada</item>
+        <item color="#FFFFFF">Hyderabad</item>
+    </string-array>
+
+</resources>

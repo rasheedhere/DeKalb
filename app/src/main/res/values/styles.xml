@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <!--<item name="android:src">@drawable/ic_launcher</item> -->
+        <!--<item name="android:actionDropDownStyle">@style/DropDownNav</item>-->
+        <item name="android:dropDownListViewStyle">@style/DropDownListView</item>
+
+    </style>
+
+
+
+
+
+
+
+    <style name="DropDownListView" parent="@android:style/Widget.Holo.ListView.DropDown">
+        <!--<item name="android:listSelector">@drawable/selectable_background_stylingactionbar</item>-->
+        <item name="android:background">@color/White</item>
+    </style>
+</resources>

@@ -1,0 +1,950 @@
+<dekalb-city>
+<tour>
+        <name>Huntley Park Historic District Tour</name>
+        <streets>South Second and Third Streets</streets>
+        <about>This is DeKalb's oldest residential neighborhood, platted in 1853 by city founder Russell Huntley and his brother Lewis. The Huntley Park Neighborhood Association has worked with the City since the mid-1970s to preserve and maintain the historic brick streets, some with original cut stone curbing, along a total of nine blocks of South Second and Third streets. The Huntley Park Historic District was created in 1982 and is one of two recognized districts listed in the DeKalb Landmark Register.</about>
+        <built>Year 1853 by Russell Hunter, City Founder</built>
+        <thumb>R.drawable.tour1thumb</thumb>
+        <keyfacts>
+        <keyfact>DeKalb oldest residential neighbourhood</keyfact>
+        <keyfact>Twice DeKalb oldest residential neighbourhood</keyfact>
+        </keyfacts>
+            <places>
+
+            <place>
+                <placename>305 South Third Street</placename>
+                <house>Andrew Bradt House</house>
+                <placeabout>haha</placeabout>
+                <lat>41.927816</lat>
+                <long>-88.752915</long>
+                <placethumb>andrewandersonthumb</placethumb>
+                <placebuilt>haha</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>rdf</imagesdone>
+            </place>
+            <place>
+                <placename>349 South Third Street</placename>
+                <house>First Baptist Church of Dekalb</house>
+                <placeabout>haha</placeabout>
+                <lat>41.927251</lat>
+                <long>-88.7529733</long>
+                <placethumb>firstchurchchristthumb</placethumb>
+                <placebuilt>haha</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>sss</imagesdone>
+            </place>
+            <place>
+                <placename>400 Block of South Third</placename>
+                <house>Huntley Park</house>
+                <placeabout>haha</placeabout>
+                <lat>41.926709</lat>
+                <long>-88.75406</long>
+                <placethumb>davisthumb</placethumb>
+                <placebuilt>haha</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>320 South Second Street</placename>
+                <house>St. George's Greek Church</house>
+                <placeabout>haha</placeabout>
+                <lat>41.9277064</lat>
+                <long>-88.754144</long>
+                <placethumb>georgegurlerthumb</placethumb>
+                <placebuilt>haha</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>403 South Second Street</placename>
+                <house>Rollin Dodge House</house>
+                <placeabout>haha</placeabout>
+                <lat>41.9334075</lat>
+                <long>-88.7510295</long>
+                <placethumb>clintonrosettethumb</placethumb>
+                <placebuilt>haha</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>407 South Second Street</placename>
+                <house>H. H. Wagner House</house>
+                <placeabout>haha</placeabout>
+                <lat>41.927068</lat>
+                <long>-88.7549049</long>
+                <placethumb>oakstreetthumb</placethumb>
+                <placebuilt>haha</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>429 South Second Street</placename>
+                <house>H. O. Cary House</house>
+                <placeabout>haha</placeabout>
+                <lat>41.926529</lat>
+                <long>-88.755065</long>
+                <placethumb>hiramellwoodthumb</placethumb>
+                <placebuilt>haha</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>517 South Second Street</placename>
+                <house>Matilda Wagner House</house>
+                <placeabout>haha</placeabout>
+                <lat>41.925891</lat>
+                <long>-88.755544</long>
+                <placethumb>wiswallthumb</placethumb>
+                <placebuilt>haha</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>530 South Second Street</placename>
+                <house>Charles Flinn House</house>
+                <placeabout>haha</placeabout>
+                <lat>41.925414</lat>
+                <long>-88.754923</long>
+                <placethumb>charlesmcmurrythumb</placethumb>
+                <placebuilt>haha</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+
+
+            </places>
+    <done>hgvh</done>
+
+    </tour>
+
+    <tour>
+        <name>Fifth Ward North Historic District Tour</name>
+        <streets>Augusta and College Avenues</streets>
+        <about>The Fifth Ward North Historic District was listed in the DeKalb Landmark Register in 1997. It encompasses College and Augusta Avenues, most of West Locust Street, a portion of Harrison Street, the west side of the 100 block of North First Street, 417 North First Street and Ellwood House Museum and Park. The meandering, tree -lined streets contain many fine examples of late 19th and early 20th century residential architecture. The area, formerly a horse pasture on the Ellwood estate, was developed by Isaac Ellwood to be a premier neighborhood for students, faculty and townspeople adjacent to the newly opened (1899) Northern Illinois State Normal School (now Northern Illinois University, see Tour #3). In addition to a sewage system, telephones and sidewalks, Mr. Ellwood provided the neighborhood with 700 elm trees. Many of the houses have always been private residences, while others have undergone conversion into apartments. The tour concentrates on College and Augusta Avenues. These streets form a "horseshoe" that was laid out by landscape architect Swain Nelson.</about>
+        <built>Registered in 1997</built>
+        <thumb>R.drawable.tour2thumb</thumb>
+        <keyfacts>
+            <keyfact>Augusta and College streets form a "horseshoe" that was laid out by landscape architect Swain Nelson</keyfact>
+        </keyfacts>
+        <places>
+            <place>
+                <placename>509 North First Street</placename>
+                <house>Ellwood House</house>
+                <placeabout>The original mansion, built in the Second Empire style, was designed by Chicago architect George O. Garnsey. Architect Charles E. Brush designed the 1899 changes, which included the addition of the Colonial Revival style porch. The architectural firm of Perkins, Fellows and Hamilton was responsible for the 1911 remodel, which removed a large corner tower and added the Arts and Crafts style stmroom and nursery to the southwest corner. Isaac Ellwood was the primary manufacturer of barbed wire fencing in the U.S. in the 19s' century. The mansion grounds included 1200 acres on which Isaac and his son Will raised Percheron horses. Eight -plus acres remain today; also on the grounds are the Playhouse (1891), Museum House (1905), a late 19th century stone tower, and a garage (1911). In 1997 the Education and Visitors Center was added onto the garage. The buildings and grounds are owned by the DeKalb Park District. The Ellwood House Association operates the Museum. Guided tours are offered Tuesday -Sunday afternoons, March - November (756-4609, www.ellwoodhouse.org).</placeabout>
+                <lat>41.9349805</lat>
+                <long>-88.753</long>
+                <placethumb>ellwoodthumb</placethumb>
+                <placebuilt>Built 1879, alterations 1899, 1911-12</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>417 North First Street</placename>
+                <house>Perry Ellwood House</house>
+                <placeabout>This Tudor Revival residence, designed by architect Charles E. Brush, may have been patterned after a man or house the Perry Ellwoods saw in England. Perry was Isaac's youngest son and a banker by profession. In 1903 he succeeded his brother-in-law, John Lewis (see Tour 2 #8), as president of the First National Bank of DeKalb/Sycamore (now Castle ownersinthe 1940s Bank). The home was sold to its current</placeabout>
+                <lat>41.934425</lat>
+                <long>-88.752912</long>
+                <placethumb>perryellwoodthumb</placethumb>
+                <placebuilt>Built 1899-1900</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>233 Augusta Avenue</placename>
+                <house>Andrew Anderson House</house>
+                <placeabout>This Prairie style house is the work of architect John VanBergen, who had been a draftsman in the Frank Lloyd Wright studio. He later had a successful independent career. The house is nearly identical to the SkiIlin residence in Wilmette, also designed by VanBergen.Note the low pitched hip roof with wide overhanging eaves and the horizontal banding and window grouping, typical of this style. Andrew Anderson and his brother Frank (see Tour 4 #2) were the owners of the Anderson Brothers Clothing Store. They both had new homes built in 1916.</placeabout>
+                <lat>41.934795</lat>
+                <long>-88.755614</long>
+                <placethumb>andrewandersonthumb</placethumb>
+                <placebuilt>Built 1916</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>250 Augusta Avenue</placename>
+                <house>Dr. Fremont N. Rowan House</house>
+                <placeabout>This lovely home designed by architect Eben Ezra Roberts combines the Prairie style with Tudor Revival half-timbering visible on the upper stories of the home. It has many beautiful leaded glass windows. Dr. Rowan was the veterinarian for the Ellwood's Percheron horse breeding business.</placeabout>
+                <lat>41.934357</lat>
+                <long>-88.756444</long>
+                <placethumb>fnrowanthumb</placethumb>
+                <placebuilt>Built 1908</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>308 Augusta Avenue</placename>
+                <house>E.J Wiswall House</house>
+                <placeabout>This modified Prairie style home, designed by architect Eben Ezra Roberts, is similar to several in Oak Park, Illinois. The hipped roof and dormers, wooden banding between the floors and large porch with sturdy piers are distinctive. Mr. Wiswall was a furniture dealer and undertaker. Both of his daughters attended NIU and later worked there. They lived in this home until their deaths in the mid 1970's</placeabout>
+                <lat>41.934391</lat>
+                <long>-88.757001</long>
+                <placethumb>wiswallthumb</placethumb>
+                <placebuilt>Built 1904</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>411 College Avenue</placename>
+                <house>John Williston Cook House</house>
+                <placeabout>This elegant Classical Revival style house was designed by architect Charles E. Brush. He also designed Altgeld Hall (Tour 3 #1), the Perry Ellwood House (Tour 2 #2) and the 1899 additions to the Isaac Ellwood House (Tour 2 #1). The grand two-story portico facing College Avenue is unique, as is the carriage sweep up to the columned side entrance. Dr. Cook was president of Northern Illinois State Normal School (now NW) from 1899 to 1919. Isaac Ellwood built the house at his own expense as part of an agreement which brought Dr. Cook to DeKalb as the first president of the new Normal School.</placeabout>
+                <lat>41.933932</lat>
+                <long>-88.757257</long>
+                <placethumb>johnwillistoncookthumb</placethumb>
+                <placebuilt>Built 1899-1900</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>336 College Avenue</placename>
+                <house>Charles McMurry House</house>
+                <placeabout>This Shingle style house was designed by local architect George Barber and built by his older brother Manly Barber. An innovator in the mail order house business, Barber established a catalog business in Knoxville, Tennessee Clients chose whatever components they wanted from the catalog, and appropriate plans were drawn up for them. Bather homes were built all over the country. Today there is an active network of Barber home enthusiasts. Mr. McMurry was the Head of the Practice Department at Northern Illinois State Normal School from 1899-1915. McMurry Hall (Tour 3 #2) was named for him.</placeabout>
+                <lat>41.933242</lat>
+                <long>-88.756473</long>
+                <placethumb>charlesmcmurrythumb</placethumb>
+                <placebuilt>Construction date unknown</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>335 College Avenue</placename>
+                <house>John H.Lewis House</house>
+                <placeabout>Chicago architect Oscar L. McMurry designed this grand Classical Revival style home. Made of cream colored brick, its columns and decorative details are of cast concrete. Both the dining room and the sitting room above it are elliptical in shape. John Lewis and his friend, J. M. Rodman (325 College), were the first to purchase lots in this new subdivision. John's wife Mary was a daughter of Isaac Ellwood (Tour 2 #1). In 1892 he purchased the controlling interest in the First National Bank of DeKalb/Sycamore (now Castle Bank) and was its president until 1903. He was treasurer of the Board of Trustees of Northern Illinois State Normal School from 1899-1917.</placeabout>
+                <lat>41.933883</lat>
+                <long>-88.756388</long>
+                <placethumb>johnhlewisthumb</placethumb>
+                <placebuilt>Built 1900-1901</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>226 College Avenue</placename>
+                <house>E.E. Bain House</house>
+                <placeabout>The stone foundation, porch and pillars provide a distinctive appearance to this Shingle style home. Note the interesting window arrangements on the street facade as well as the oval window on the east side. Built for local shoe store proprietor E. E. Bain, within two years it was the residence of Fred L. Charles. Charles was one of the original faculty at Northern Illinois State Normal School, teaching biology and nature studies.</placeabout>
+                <lat>41.933036</lat>
+                <long>-88.755546</long>
+                <placethumb>eebainthumb</placethumb>
+                <placebuilt>Built 1901</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>200 West Locust Street</placename>
+                <house>Dr.James Rankin House</house>
+                <placeabout>This Prairie style design is attributed to George W. Maher and his draftsman, Robert F. Seyfarth. It is similar to designs by Maher in Oak Park, Chicago and elsewhere. The home was featured in the October -December 1996 issue of the Geo. W. Maher Quarterly. Some interior alterations made in the 1920s are in the Spanish Colonial Revival style. The stucco exterior with a front porch accessible only from the house and the arch -roofed side entrance are distinctive. Dr. Rankin was a physician and surgeon.</placeabout>
+                <lat>41.931815</lat>
+                <long>-88.75471</long>
+                <placethumb>jamesrankinthumb</placethumb>
+                <placebuilt>Built 1904</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+
+        </places>
+        <done>hgvh</done>
+    </tour>
+
+
+    <tour>
+        <name>Northern Illinois University Tour</name>
+        <streets>Normal Road, Lucinda Avenue</streets>
+        <about>Barbed wire inventor Joseph F. Glidden donated the 60+ acre site for Northern Illinois State Normal School (now Northern Illinois University) when DeKalb was selected as the location for the new institution in 1895. Bounded by the Kishwaukee River, Normal Road, Lucinda Avenue, and West Lincoln Highway, a portion of the land once served as the site of the agricultural fair at which Glidden, Jacob Haish, and Isaac Ellwood got the idea for barbed wire in 1873. Eventually 17 assorted buildings would be erected here over a period of more than 70 years. A nice feature of the campus is the recently improved lagoon adjacent to the river on the east side. NIU has grown from a teacher's college into a large university with many diversified programs and a student enrollment of over 23,000 (2003). This tour concentrates on six of the buildings constructed during the school's first 50 years.</about>
+        <built>1895</built>
+        <thumb>R.drawable.tour3thumb</thumb>
+        <keyfacts>
+            <keyfact>Barbed wire inventor Joseph F. Glidden donated the 60+ acre site for Northern Illinois University</keyfact>
+        </keyfacts>
+        <places>
+            <place>
+                <placename>Altgeld Hall</placename>
+                <house>Altgeld Hall</house>
+                <placeabout>This English Tudor Gothic style building was the first built for the Northern Illinois State Normal School. Architect Charles E. Brush of Chicago, was one of 16 architects to submit designs for the project. Note the grotesques on the battlements at the parapets. The building originally had laboratories, a gymnasium, an auditorium, a study hall, a museum, a shop, classrooms, and the school's library. "The Castle" as it was referred to later became the Administrative Building. It was named in 1963 for Governor John Peter Altgeld, who signed a bill in 1895 establishing the NISNS, a training institution for teachers.</placeabout>
+                <lat>41.93465</lat>
+                <long>-88.7640419</long>
+                <placethumb>altgeldthumb</placethumb>
+                <placebuilt>Built 1895-1899</placebuilt>
+                <images>
+                    <image>
+                        altgeld1
+                    </image>
+                    <desc>Altgeld 1</desc>
+                    <image>
+                        altgeld2
+                    </image>
+                    <desc>Altgeld 2</desc>
+                </images>
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>McMurry Hall</placename>
+                <house>McMurry Hall</house>
+                <placeabout>This English/Jacobean Tudor building is the second oldest on campus. The architect was W. Carbys Zimmerman of Chicago who was the State Architect. The building's two towers mimic the towers on Altgeld Hall. Note the Gothic style carved stone portico at the main entrance with the stone ornamentation flanking the windows, doors, and roof gable trim. When the building was originally constructed, all the light (except for some skylights) came in from the south facade. This probably accounts for the spacious windows there.</placeabout>
+                <lat>41.9352122</lat>
+                <long>-88.7631988</long>
+                <placethumb>mcmurrythumb</placethumb>
+                <placebuilt>Built 1909-1911</placebuilt>
+                <images>
+                    <image>
+                        mcmurry1
+                    </image>
+                    <desc>McMurry Hall 1</desc>
+
+                    <image>
+                        mcmurry2
+                    </image>
+                    <desc>McMurry Hall 2</desc>
+                </images>
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>Adams Hall</placename>
+                <house>Adams Hall</house>
+                <placeabout>This Collegiate Gothic style building was originally a women's dormitory with a capacity of 120. The building's head architect was Joseph F. Booton of Chicago, and the supervising architect was C. Herrick Hammond. The exterior of the building is of Joliet limestone. Much of the window and roof trim is of lead -coated copper. Note the sheet metal spandrels at the windows, and the similarities of the window treatments on this building to those of Davis Hall. The dormitory housed junior and senior women, and was quite luxurious, with afternoon teas and meals served on Bavarian china. The building also had sundecks and sewing rooms. It was named for Karl L. Adams, president of the college from 1929-1942, and was converted into office spaces in 1967.</placeabout>
+                <lat>41.9357702</lat>
+                <long>-88.7652582</long>
+                <placethumb>adamsthumb</placethumb>
+                <placebuilt>Built 1947-1949</placebuilt>
+
+                <images>
+                    <image>
+                        adamsone
+                    </image>
+                    <desc>Adams Hall 1</desc>
+                    <image>
+                        adams2
+                    </image>
+                    <desc>Adams Hall 2</desc>
+                </images>
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>Williston Hall</placename>
+                <house>Williston Hall</house>
+                <placeabout>State Architect, C. Herrick Hammond, designed this Italian Renaissance style building as a dormitory for 127 women. The building was named for the first president of the Northern Illinois State Normal School, John Williston Cook. He personally water -tested several types of bricks and chose the unique tannishorange ones that are used on this building. Note corbelled masonry details on the gables and on the chimney. Also note the shaped arches and the brick patterning on the south facade. Originally there were 40 double -occupancy rooms and 47 single rooms. It also had parlors, a dining room, a kitchen, a guest house, and matron apartments. Remarkably well preserved, "Willy" as the building was known, was converted into offices into 1969.</placeabout>
+                <lat>41.9352557</lat>
+                <long>-88.7650372</long>
+                <placethumb>willistonthumb</placethumb>
+                <placebuilt>Built 1914-1915</placebuilt>
+                <images>
+                    <image>
+                        williston1
+                    </image>
+                    <desc>Williston Hall 1</desc>
+                    <image>
+                        williston2
+                    </image>
+                    <desc>Williston Hall 2</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>Swen Parson Hall</placename>
+                <house>Swen Parson Hall</house>
+                <placeabout>This Collegiate Gothic style building was originally built as a library. The architects were Joseph F. Booton and C. Herrick Hammond. It was designed for a student population of 2,500, but rapid growth in the student body resulted in additions in 1961 and 1964. The building was named for Swen Franklin Parson, an original member of NIU's staff, after his death in 1949. The building was converted into the College of Law Building in 1982. The main entrance lobby hall is well worth a stepping inside to see. Its vaulted Gothic style ceiling room was dedicated in 1994 as the Thurgood Marshall Gallery.</placeabout>
+                <lat>41.934268</lat>
+                <long>-88.7652946</long>
+                <placethumb>swenparsonthumb</placethumb>
+                <placebuilt>Built 1949-1952</placebuilt>
+                <images>
+                    <image>
+                        swenparson1
+                    </image>
+                    <desc>Swen Parson 1</desc>
+                    <image>
+                        swenparson2
+                    </image>
+                    <desc>Swen Parson 2</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>Davis Hall</placename>
+                <house>Davis Hall</house>
+                <placeabout>This Gothic revival utilitarian -style building has an interesting, almost abstract, pattern of windows on its front facade. The architect was C. Herrick Hammond. Originally known as the science building, it was later named for William Morris Davis, a noted geographer and geologist. For many years the building was the tallest in the city. It was constructed during World War II and changes were made due to rising costs and material shortages. The building is constructed of reinforced concrete with a limestone veneer. Note the metal window trim is similar to that on Adams Hall. The observatory was not functional until the 1960s.</placeabout>
+                <lat>41.933316</lat>
+                <long>-88.765358</long>
+                <placethumb>davisthumb</placethumb>
+                <placebuilt>Built 1899-1900</placebuilt>
+            <images>
+                <image>
+                    davis1
+                </image>
+                <desc>Davis Hall 1</desc>
+                <image>
+                    davis2
+                </image>
+                <desc>Davis Hall 2</desc>
+            </images>
+
+            <imagesdone>ss</imagesdone>
+            </place>
+        </places>
+        <done>hgvh</done>
+    </tour>
+
+
+    <tour>
+        <name>Northern Original Town Tour</name>
+        <streets>North First,Second,Third and Fourth streets</streets>
+        <about>In the early days of DeKalb, the area from First Street east to Fourth Street, and from just north of Lincoln Highway to present day Fisk Avenue (originally "North Street"- the northern boundary of the city) was pricipally residential. As the years went by however a number of the old homes gave way for other structures, although many were able to survive by being converted into apartments. The old time residential character of the neighborhood remains strong along the 200 block of North First, and on the 300 blocks of North Second and North Third Streets. Four churches have helped anchor the area since the early 1900s, as has the DeKalb Public Library.</about>
+        <built>1900</built>
+        <thumb>R.drawable.tour4thumb</thumb>
+        <keyfacts>
+            <keyfact>This area was principally residential.</keyfact>
+        </keyfacts>
+        <places>
+            <place>
+                <placename>210 North First Street</placename>
+                <house>Eli B. Gilbert House</house>
+                <placeabout>This home represents one of the earliest examples of Second Empire style to be found in DeKalb. Only a few homes in DeKalb were built in this style. The mansard roof, narrow windows and dormer windows are characteristic of this style. Eli B. Gilbert, the home's original owner, was an attorney, notary public and Justice of the Peace. The house is still owned by descendants of the Gilbert family.</placeabout>
+                <lat>41.9464917</lat>
+                <long>-88.772025</long>
+                <placethumb>elibgilbertthumb</placethumb>
+                <placebuilt>Built 1865</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+
+
+            <place>
+                <placename>216 North First Street</placename>
+                <house>Charles A. Anderson House</house>
+<placeabout>This Colonial Revival style home has a full width "wrap around" porch with a pediment roof, classical Doric columns, Palladian windows, and corner pilasters, all indicative of that style. The home's original owner, Charles A. Anderson owned C.A. Anderson Hardware and Stoves at 226 E. Main Street (now Lincoln Highway). The home still appears as it did when it was built.</placeabout>
+                <lat>41.9321259</lat>
+                <long>-88.752851</long>
+                <placethumb>charlesaandersonthumb</placethumb>
+                <placebuilt>Built 1916</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+        <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>404 North First Street</placename>
+                <house>Frank Anderson House</house>
+                <placeabout>This Colonial style home was originally designed by Charles E. Hammond. Frank Anderson and his brother Andrew were long time owners of the Anderson Brothers Clothing Store. Both brothers had new homes built for their families in 1916, and supposedly competed to see who would build the better home. While Andrew chose to have a Prairie style home designed for him (See Tour 2, #3), Frank selected this more traditional style. They were the younger brothers of Charles A. Anderson (See Tour 4, #2).</placeabout>
+                <lat>41.9339</lat>
+                <long>-88.7518939</long>
+                <placethumb>frankandersonthumb</placethumb>
+                <placebuilt>Built 1916</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+        <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>202 Fisk Avenue</placename>
+                <house>William G. Earle House</house>
+                <placeabout>This house appeared in architect George F. Barber's 1891 mail order catalogue, The Cottage Souvenir as Design # 43, Plan 2. The publication's listed price for the plans for this home was $18 and ttie price for construction was $3,000. The home's owner, Mr. Earle, was employed as the cashier of the I. L. Ellwood Manufacturing Company (Tour 4, #19). The residence was originally located at 417 N. Second Street. It was moved to this site in 1990 to prevent its demolition. Although the front porch has been altered slightly from its original state, the second floor balcony on the east side of the house has not changed, and is still supported by decorative brackets.</placeabout>
+                <lat>41.93394</lat>
+                <long>-88.750096</long>
+                <placethumb>williamgearlethumb</placethumb>
+                <placebuilt>Built circa 1890</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>428 North Second Street</placename>
+                <house>Dr. Pond House</house>
+                <placeabout>Although the architect of this house is not specifically known, it is strongly suspected to also be George Barber design. The property for this house was purchased by Alice Pond in 1888 for $500, and the house was presumably constructed thereafter. The first floor has horizontal clapboard siding, with vertical siding in the area between the first and second story windows of the north and south facades. The gables have decorative fish scale trim. All of these features are characteristic of George Barber designs. W. L. Pond was DeKalb City Attorney in the 1880s and 1890s and was elected county judge in 1897, serving until his death in 1930.</placeabout>
+                <lat>41.934025</lat>
+                <long>-88.750376</long>
+                <placethumb>wlpondthumb</placethumb>
+                <placebuilt>Built circa 1890</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>205 Pine Street</placename>
+                <house>George Gurler House</house>
+                <placeabout>This home is a fine example of Greek Revival style architecture. While this residence was purchased for $5,000 by the George Gurler family in 1892, Ellzey and Alida Ellwood Young (a sister of Isaac Ellwood) were the original owners. The structure today strongly resembles the photograph taken a it in the 1890s. A successful preservation campaign by the Gurler Heritage Association in 197 prevented its demolition. The house now serves as a small community ceti meeting facility.</placeabout>
+                <lat>41.9331275</lat>
+                <long>-88.750328</long>
+                <placethumb>georgegurlerthumb</placethumb>
+                <placebuilt>Built 1857</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>319 North Second Street</placename>
+                <house>Clinton Rosette House</house>
+                <placeabout>This simple Queen Anne home still resembles a photo of it taken in the 1890s. Clinton Rosette was the editor of the DeKalb Chronicle from 1879-1906, and the paper's owner from 1906-1909. Rosette supported Democrat John Peter Altgeld's bid to become Governor of Illinois in 1892 (See Altgeld Hall, Tour 3,#l ).</placeabout>
+                <lat>41.933045</lat>
+                <long>-88.75166</long>
+                <placethumb>clintonrosettethumb</placethumb>
+                <placebuilt>Built circa 1880</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>303 North Second Street</placename>
+                <house>Bailey Rosette House</house>
+                <placeabout>This distinctive Shingle style home was built for Bailey Rosette, younger brother of Clinton. There is an oriel window in the center of its prominent second story gable. Bailey worked with his brother at the DeKalb Chronicle until he started his own local newspaper, e DeKalb Advertiser, in 1903. The home was restored by the owners in the 1980s to its original state.</placeabout>
+                <lat>41.932648</lat>
+                <long>-88.751875</long>
+                <placethumb>baileyrosettethumb</placethumb>
+                <placebuilt>Built 1896</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>220 North Third Street</placename>
+                <house>Christian Science Church</house>
+                <placeabout>This house of worship originally displayed a simpler street facade than it does today. Among the alterations was the addition of the steeple. The congregation first met in January of 1903. Their services were held in a local hall until 1907, when a house was purchased and remodeled for use. That building burned in 1908, leading to the decision to erect a real church. The cornerstone was laid in 1909 and the dedication took place on October 26, 1910.</placeabout>
+                <lat>41.9315549</lat>
+                <long>-88.7502562</long>
+                <placethumb>christiansciencechurchthumb</placethumb>
+                <placebuilt>Built 1909-1910</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>309 Oak Street</placename>
+                <house>DeKalb Public Library</house>
+                <placeabout>This Art Moderne style building was designed by architects Charles White and Bertram Weber of Chicago. Unlike many cities and towns around the country, DeKalb does not have a Carnegie Library. The wealth created by the invention and manufactures of barbed wire fencing made the community ineligible for funding from the Carnegie Foundation. Jacob Haish, whose personal fortune stemmed from barbed wire manufacturing, left $150,000 for the construction the library. The west wing is a sympathetic addition built in 1978.</placeabout>
+                <lat>41.9320842</lat>
+                <long>-88.7496399</long>
+                <placethumb>dekalbpublicthumb</placethumb>
+                <placebuilt>Built circa 1930</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>315 North Third Street</placename>
+                <house>Original Isaac Ellwood House</house>
+                <placeabout>This residence is another example of the popular Greek Revival style. It was built for Isaac and Harriet Ellwood, who lived there until 1879, when they moved to their mansion on North First Street (Tour 2, #1). Although the original residence may have looked very similar to the nearby Gurler House, it underwent several additions, the most significant of these having been commissioned by the Ellwoods.</placeabout>
+                <lat>41.93247</lat>
+                <long>-88.750399</long>
+                <placethumb>originalisaacellwoodthumb</placethumb>
+                <placebuilt>Built 1860</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>329 North Third Street</placename>
+                <house>Hiram Ellwood House</house>
+                <placeabout>In 1884, Hiram Ellwood commissioned Chicago architect George garnsey to design this Transitional Eastlake style house. The distinguishing characteristics of this home are the bargeboard trim in the gables and the decorative front and side porches. Hiram Ellwood was an older brother of Isaac Ellwood, and Secretary and General Manager of the Superior Barbed Wire Company from 1877- 1898. His descendants owned the home until 1955. The house was restored to its original condition in the early 1990s. In 2004, a replica of the original fence was installed.</placeabout>
+                <lat>41.932805</lat>
+                <long>-88.750216</long>
+                <placethumb>hiramellwoodthumb</placethumb>
+                <placebuilt>Built 1884</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>324 North Third Street</placename>
+                <house>First Lutheran Church</house>
+                <placeabout>The congregation was organized by 32 members on Christmas Day, 1858. The present Late Gothic Revival church was their third building, having cost $64,257. It was designed by the Moline architectural firm of EcIdund and DeArment, with DeKalb's Skoglund and Wedberg as general contractors. The Third Street facade consists of two identical corner towers, flanking a gable end with rose window, above a one-story bay. Note the unusual copper "Minaret" atop the roof.</placeabout>
+                <lat>41.932494</lat>
+                <long>-88.749507</long>
+                <placethumb>firstlutheranthumb</placethumb>
+                <placebuilt>Built 1915-1916</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>421/23 North Third St.</placename>
+                <house>Haish Carriage House</house>
+                <placeabout>This carriage house was built on the premises of the Jacob Haish mansion as a stable to accommodate the horses and carriages owned by the family. The carriage house, like the mansion, was designed by Jacob Haish himself. The Haish mansion stood at 227 Pine Street and was demolished in 1961. The decorative brick work is similar to but simpler than that on the former mansion. The tower at the southeast corner as well as the area above the center windows on the second floor were once more ornate and elaborate. The original roof line has been reconfigured to make it much smaller than originally designed. The date of construction is incised in the semi -circular block of limestone above the window in the tower.</placeabout>
+                <lat>41.933677</lat>
+                <long>-88.749748</long>
+                <placethumb>haishcarriagethumb</placethumb>
+                <placebuilt>Built 1884</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>sss</imagesdone>
+            </place>
+            <place>
+                <placename>321 Pine Street</placename>
+                <house>St. Mary's Church</house>
+                <placeabout>Construction of this Gothic Revival style church began in 1899. Built of blue Bedford stone, the present church replaced an earlier frame structure. The building's construction took two years, and it was dedicated in 1901. Twentyfour stained glass windows were imported from Germany, and with the exception of the rose window behind the altar, are original. Note that the two towers on the south elevation are different in design. The front double door is original; single doors flanking the door were added later when the front stairs were extended. Following a 1973 fire the church was rededicated in 1976. Changes to the interior were made in the late 1980s, and the exterior doors were restored.</placeabout>
+                <lat>41.9329097</lat>
+                <long>-88.7495761</long>
+                <placethumb>stmaryschurchthumb</placethumb>
+                <placebuilt>Built 1894-1901</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>330 North Fourth Street</placename>
+                <house>Second Home of Jacob Haish</house>
+                <placeabout>This simple frame structure appears much the same as depicted in the 1871 Atlas Map ofDeKalb County, Illinois.Original doors, windows and bargeboard gable trim remain. The foundation has brick work typical of Jacob Haish built homes. Haish was a local lumber dealer and contractor before he began the manufacturing of his own barbed wire design. In 1884 this building was moved from its original site, 227 Pine Street to make way for Jacob Haish's new elaborate Queen Anne style mansion.</placeabout>
+                <lat>41.9322486</lat>
+                <long>-88.748478</long>
+                <placethumb>secondjacobhaishthumb</placethumb>
+                <placebuilt>Built circa 1870</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>ss</imagesdone>
+            </place>
+            <place>
+                <placename>321 Oak Street</placename>
+                <house>First United Methodist Church</house>
+                <placeabout>This building is another fine example of Gothic Revival church architecture. Variations of the Gothic Revival style remained in vogue well into the 20th century, long after it had gone out of favor for houses. Note the large gabled windows on the east and south facades, with elaborate stained glass. Music emanates from the large bell tower at the southeast corner every day. Although Jacob Haish did not belong to the church, he made generous donations to the building fund. This building replaced the previous smaller brick Gothic Revival church.</placeabout>
+                <lat>41.9319983</lat>
+                <long>-88.7491447</long>
+                <placethumb>oakstreetthumb</placethumb>
+                <placebuilt>Built 1908-1909</placebuilt>
+                <images>
+                    <image>
+                        davis1
+                    </image>
+                    <desc>sdjk</desc>
+                    <image>
+                        davis2
+                    </image>
+                    <desc>sdjk</desc>
+                </images>
+
+                <imagesdone>sdh</imagesdone>
+            </place>
+        </places>
+        <done>hgvh</done>
+    </tour>
+
+
+</dekalb-city>
